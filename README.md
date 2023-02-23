@@ -9,10 +9,12 @@
 
 - ⚡ Fun fact **ChatGPT is my bestfriend, for now.**
 
+-  📚 Hobbies Blogging, reading books and of course coding.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/probrogg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="probrogg_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saswat pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswat pal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saswat-pal-163a60227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswat-pal-163a60227" height="30" width="40" /></a>
 <a href="https://hashnode.com/@probrogg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@probrogg" height="30" width="40" /></a>
 </p>
 
