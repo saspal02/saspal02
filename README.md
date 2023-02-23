@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **ChatGPT is my bestfriend, for now.**
 
--  📚 Hobbies Blogging, reading books and of course coding.
+-  📚 Hobbies **Blogging, reading books and of course coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
