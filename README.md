@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Kubernetes and cloud platforms**
 
-- 👯 I'm looking to collaborate on **open source projects **
+- 👯 I'm looking to collaborate on **open source projects**
 
 - 🤝 I'm looking for help with **learning system design**
 
